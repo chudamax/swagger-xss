@@ -1,8 +1,8 @@
 {
-    "url": "https://jumpy-floor.surge.sh/test.yaml",
+    "url": "https://raw.githubusercontent.com/i223t/swagger-xss/master/test.yml",
     "urls": [
         {
-            "url": "https://jumpy-floor.surge.sh/test.yaml",
+            "url": "https://raw.githubusercontent.com/i223t/swagger-xss/master/test.yml",
             "name": "Foo"
         }
     ]
